@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Reporting Practice Customizations">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 1188668640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Customer Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1188668640 - ReportLabel 1494484176" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Percentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Customer Information - ReportLabel BalancePercentageLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1188668640 - ReportLabel 3598410861" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Customer Information - ReportLabel IndicatorLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1188668640 - ReportLabel 2410138484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Customer Information - ReportLabel TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1539072963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entry Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Item Ledg. Entry Info. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1539072963 - ReportLabel 3603494742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Item Ledg. Entry Info. - ReportLabel PerItemTotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1539072963 - ReportLabel 2410138484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Item Ledg. Entry Info. - ReportLabel TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1539072963 - Control 2046074539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show Total field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Item Ledg. Entry Info. - Control Show Total - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1539072963 - Control 2046074539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BET REP Item Ledg. Entry Info. - Control Show Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3558736947 - Action 1188668640 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Executes the Print Customer Information action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BET REP Customer Ext - Action BET REP Customer Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3558736947 - Action 1188668640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Print Customer Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BET REP Customer Ext - Action BET REP Customer Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4169008118 - Action 1979820813 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Executes the Print Item Ledger Info action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BET REP Item List Ext - Action BET REP Item Ledg. Info - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4169008118 - Action 1979820813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Print Item Ledger Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BET REP Item List Ext - Action BET REP Item Ledg. Info - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
