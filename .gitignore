@@ -1,0 +1,7 @@
+**/.vscode/*
+**/.alpackages
+**/.altemplates
+!**/.vscode/settings.json
+!**/.vscode/launch.json
+*.app
+*.log

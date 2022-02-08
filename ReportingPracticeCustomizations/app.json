@@ -1,0 +1,27 @@
+{
+  "id": "edcb7f77-761b-486f-99de-e8a513e2df5b",
+  "name": "Reporting Practice Customizations",
+  "publisher": "Uglješa Ćirić",
+  "version": "19.2.0.20220208",
+  "brief": "Uglješa's Reporting Practice Customizations",
+  "description": "Uglješa's App for Reporting Practice Customizations",
+  "privacyStatement": "https://dev.azure.com/UgljesaCiric/_git/Reporting%20Practice",
+  "EULA": "https://dev.azure.com/UgljesaCiric/_git/Reporting%20Practice",
+  "help": "https://dev.azure.com/UgljesaCiric/_git/Reporting%20Practice",
+  "url": "https://dev.azure.com/UgljesaCiric/_git/Reporting%20Practice",
+  "logo": "./logo/BET.216x216.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 64901,
+      "to": 64949
+    }
+  ],
+  "features": ["TranslationFile"],
+  "contextSensitiveHelpUrl": "https://dev.azure.com/UgljesaCiric/_git/Reporting%20Practice",
+  "resourceExposurePolicy": { "allowDebugging": true, "allowDownloadingSource": false, "includeSourceInSymbolFile": true },
+  "runtime": "8.0"
+}
