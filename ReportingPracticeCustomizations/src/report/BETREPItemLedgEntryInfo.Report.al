@@ -34,12 +34,6 @@ report 64902 "BET REP Item Ledg. Entry Info."
             {
                 IncludeCaption = true;
             }
-            column(PerItemTotal; PerItemTotal)
-            {
-            }
-            column(Total; Total)
-            {
-            }
             column(ShowTotal; ShowTotal)
             {
             }
@@ -66,11 +60,6 @@ report 64902 "BET REP Item Ledg. Entry Info."
                     IncludeCaption = true;
                 }
             }
-
-            trigger OnAfterGetRecord()
-            begin
-                CalculateItemTotal();
-            end;
         }
     }
 
@@ -101,11 +90,4 @@ report 64902 "BET REP Item Ledg. Entry Info."
 
     var
         ShowTotal: Boolean;
-        PerItemTotal: Decimal;
-        Total: Decimal;
-
-    local procedure CalculateItemTotal()
-    begin
-        PerItemTotal := Item."Unit Price" + Item."Unit Cost";
-    end;
 }

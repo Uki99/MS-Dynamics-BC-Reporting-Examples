@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://bc-19-2/",
+            "server": "http://bc-19-backup/",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 9006,
