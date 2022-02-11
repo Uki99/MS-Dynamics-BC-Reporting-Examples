@@ -6,14 +6,14 @@ This is an internal practice task i got on topic of Reporting in Microsoft Dynam
 Opis:
 1. Napraviti report koji ce izlistati sve kupce u tabelarnom obliku
 2. Report treba da prikaze sledece kolone:
-    - No.
-    - Name
-    - Balance
-    - Balance LCY
-    - Balance Percentage [Decimal] – Ovo je polje koje ce se izracunati u kodu. Predstavlja udeo polja “Balance LCY” u polju Balance.
-    - Credit Amount
-    - Profit LCY
-    - Indicator [Boolean] – Polje izracunati u kodu. Vrednost je TRUE ako je polje „Profit LCY“ vece ili jednako polju „Sales LCY“
+    - `No.`
+    - `Name`
+    - `Balance`
+    - `Balance LCY`
+    - `Balance Percentage` **[Decimal]** – Ovo je polje koje ce se izracunati u kodu. Predstavlja udeo polja “Balance LCY” u polju Balance.
+    - `Credit Amount`
+    - `Profit LCY`
+    - `Indicator` **[Boolean]** – Polje izracunati u kodu. Vrednost je TRUE ako je polje „Profit LCY“ vece ili jednako polju „Sales LCY“
     
     <br>
 
@@ -23,18 +23,18 @@ Opis:
 Opis:
 1. Napraviti report koji ce izlistati sve stavke artikla (Item Ledger Entry), grupisane prema artiklima
 2. Report treba da prikaze sledece kolone iz tabele Item:
-    - No.
-    - Description
-    - Base Unit of Measure
-    - Unit Price
+    - `No.`
+    - `Description`
+    - `Base Unit of Measure`
+    - `Unit Price`
     
     <br>
     
 3. Report treba da prikaze sledece kolone iz tabele „Item Ledger Entry“:
-    - Entry No.
-    - Description
-    - Cost Amount (Actual)
-    - Puchase Amount (Actual)
+    - `Entry No.`
+    - `Description`
+    - `Cost Amount (Actual)`
+    - `Puchase Amount (Actual)`
 
     <br>
 
