@@ -1,7 +1,7 @@
 /// <summary>
-/// PageExtension BET REP Customer Ext (ID 64901) extends Record Customer List.
+/// PageExtension BET REP Customer List Ext (ID 64901) extends Record Customer List.
 /// </summary>
-pageextension 64901 "BET REP Customer Ext" extends "Customer List"
+pageextension 64901 "BET REP Customer List Ext" extends "Customer List"
 {
     actions
     {
